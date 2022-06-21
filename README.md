@@ -1,2 +1,6 @@
-# dio-desafio-gitgithub-primeiro-repositorio
-Desafio de código do módulo de git github
+# Repositório do desafio de projeto sobre Git/GitHub
+Repositório criado para o Desafio de Projeto
+
+## Links Uteis
+
+[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/) 
