@@ -17,18 +17,18 @@ ___
 ## Módulos
 
 1. **Prepare-se para jornada**
-    - [ ] Conheça as oportunidades da DIO.
-    - [ ] Seja protagonista neste bootcamp
-    - [ ] Boas-vindas as **Santander Bootcamp Fullstack Developer**
-    - [ ] Aula inaugural **Santander Bootcamp Fullstack Developer** 
+    - [x] Conheça as oportunidades da DIO.
+    - [x] Seja protagonista neste bootcamp
+    - [x] Boas-vindas as **Santander Bootcamp Fullstack Developer**
+    - [x] Aula inaugural **Santander Bootcamp Fullstack Developer** 
 
 2. **Conteúdo de abetura**
-    - [ ] Introdução á programação e Pensamento Computacional
-    - [ ] Introdulçao ao Git e ao GitHub
-    - [ ] Criando seu primeiro repositório no GitHub para compartilhar seu progresso
+    - [x] Introdução á programação e Pensamento Computacional
+    - [x] Introdulçao ao Git e ao GitHub
+    - [x] Criando seu primeiro repositório no GitHub para compartilhar seu progresso
 
 3. **HTML/CSS3/JS**
-    - [ ] Introdução a criação de websites com HTML e CSS3
+    - [x] Introdução a criação de websites com HTML e CSS3
     - [ ] Posicionando elementos com Flexbox em CSS
     - [ ] Recriando a página inicial do Instagram
     - [ ] Introdução ao JavaScript 
